@@ -1,4 +1,9 @@
-A curated list of awesome Software Architecture resources, eg tools, books, readings, videos
+A curated list of awesome Software Architecture resources, eg tools, books, readings, videos. Also can curate list of architecture diagrams
+
+Tools for drawing diagrams:
+- https://archbee.io/
+- https://www.genmymodel.com/
+- https://cloudcraft.co/
 
 Reference:
 - https://github.com/ahamdy88/awesome-software-architecture
@@ -7,3 +12,4 @@ Reference:
 - https://github.com/abcarroll/software-architecture-resources
 - https://github.com/phuongtailtranminh/Software-Architecture
 - https://github.com/AlaaAttya/software-architect-roadmap
+- https://archbee.io/blog/archbee-architecture/
