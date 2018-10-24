@@ -16,3 +16,4 @@ Alternatives available:
 
 Reference:
 - https://startuplatte.com/2018/09/14/stewart-butterfield-founder-of-flickr-and-slack/
+- https://www.atlassian.com/blog/jira-software/the-new-jira-begins-now
