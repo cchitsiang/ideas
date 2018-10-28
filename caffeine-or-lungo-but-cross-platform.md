@@ -1,1 +1,2 @@
-https://blog.sindresorhus.com/lungo-b364a6c2745f
+- https://blog.sindresorhus.com/lungo-b364a6c2745f
+- https://github.com/gsurma/sleepless_mac
