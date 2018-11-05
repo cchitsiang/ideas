@@ -1,4 +1,4 @@
-Information collect that acts as human brain.
+Information collect that acts as human brain. Lastpass for brain
 
 Use cases
 - Keep track Person (name, profile, picture)
