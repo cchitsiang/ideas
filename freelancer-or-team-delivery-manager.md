@@ -8,7 +8,6 @@ The greatest skills gaps in the US workforce, according to LinkedIn CEO, Jeff We
 • Team-Building ✅
 • Leadership ✅
 
-
 Common Problems
 - delay in term of timeline
 - poor quality of deliverables, code quality
@@ -19,3 +18,6 @@ Be's
 - scrum master
 - team lead
 - software architect / code reviewer
+
+Related tools
+- https://unito.io/
