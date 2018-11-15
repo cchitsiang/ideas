@@ -15,6 +15,7 @@ Alternatives available:
 - Basecamp
 - Clubhouse
 - Favro
+- https://worklight.io/
 
 Reference:
 - https://startuplatte.com/2018/09/14/stewart-butterfield-founder-of-flickr-and-slack/
