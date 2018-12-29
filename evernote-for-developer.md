@@ -4,3 +4,4 @@ What um missing is where how it can sync to github or other source control provi
 
 Can combine with https://github.com/klauscfhq/taskbook and https://github.com/ZeroX-DG/CommitTasks too
 - https://github.com/aviaviavi/toodles
+- https://github.com/fabiospampinato/notable
