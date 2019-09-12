@@ -5,6 +5,7 @@ Use cases
 - Keep track Contract (phone number, emails)
 - Keep track Meaningful Numbers (bank details, birthdate, anniversay date)
 - Keep track Places 
+- Keep track reading notes (https://apps.apple.com/cn/app/id1196268448?ls=1&mt=12)
 
 Technical references
 - https://github.com/semi-technologies/weaviate
