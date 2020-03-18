@@ -1,5 +1,8 @@
 Information collect that acts as human brain. Lastpass for brain
 
+Names
+- superbrain
+
 Use cases
 - Keep track Person (name, profile, picture)
 - Keep track Contract (phone number, emails)
