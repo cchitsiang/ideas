@@ -17,4 +17,4 @@ Found a similar one
 - https://github.com/zadam/trilium/wiki/Patterns-of-personal-knowledge-base
 
 References
-- https://www.spacedtime.com/
+- https://www.spacedtime.com/ - Remember the important things in your life.
