@@ -19,3 +19,4 @@ Found a similar one
 References
 - https://www.spacedtime.com/ - Remember the important things in your life.
 - https://github.com/foambubble - Developing tools for thought
+- https://getrumin.com/ - Mind map for online learning resources
